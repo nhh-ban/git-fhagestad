@@ -37,6 +37,8 @@ galaxies <- read_csv("Galaxy")
 hist(galaxies$size, breaks = 10, main = "Distribution",
      xlab = "Galaxy Size", ylab = "Frequency")
 
+# The problems are now solved
+
 
 
 
